@@ -137,6 +137,6 @@ FF 15 9C 50 40 00            call    ds:GetDlgItemTextA
 
 Easy_CrackMe.exeを実行して、テキストボックスにEa5yR3versingと入力すると正解を示すメッセージボックスが表示される。
 
-![](.PNG)
+![](2.PNG)
 
 > Flag : Ea5yR3versing
